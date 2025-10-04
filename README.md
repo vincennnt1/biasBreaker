@@ -1,7 +1,5 @@
 # biasBreaker
 
-**Created for the 2025 SpurHacks Hackathon**
-
 biasBreaker is a fake news detector for online articles. There is an application where you can paste a link, and an extension that allows you to check whenever you are on an article's webpage.
 
 ## Features
