@@ -27,4 +27,3 @@ biasBreaker is a fake news detector for online articles. There is an application
 Obtained from [Kaggle](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets/data)
 
 
-Click the link above to download the app.
